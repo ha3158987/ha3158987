@@ -8,7 +8,7 @@
 ### Greetings,👋
  
 Welcome to **Dico**'s github page!
-- 🌱 &nbsp;I’m currently learning JavaScript, HTML, CSS, React, etc. preparing to become a FE developer.  
+- 🌱 &nbsp;I’m currently learning JavaScript, HTML, CSS, React, etc. preparing to be a FE developer.  
 - 📫 &nbsp;You can also find my footprints at <a href="https://velog.io/@grinding_hannah" target="_blank">here</a>❗️(Only available in KOREAN, tho)
 <!--
 **ha3158987/ha3158987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
