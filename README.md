@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=ea8685)
+
 ### 어서오세요,👋
 
 **Dico**의 깃헙페이지 입니다! 
