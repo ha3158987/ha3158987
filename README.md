@@ -1,13 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ea8685)
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&text=Greetings,%20👋)
 
-### 어서오세요,👋
 
 **Dico**의 깃헙페이지 입니다! 
 - 🌱 &nbsp;프론트엔드 개발자를 꿈꾸며 JavaScript, HTML, CSS, React 등을 공부하고 있습니다.
 - 📫 &nbsp;<a href="https://velog.io/@grinding_hannah" target="_blank">여기</a>를 클릭하시면 블로그도 방문할 수 있어요❗️
 
 ----------------------------------------------------------------------------------------------
-### Greetings,👋
  
 Welcome to **Dico**'s github page!
 - 🌱 &nbsp;I’m currently learning JavaScript, HTML, CSS, React, etc. preparing to be a FE developer.  
