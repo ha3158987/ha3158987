@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&text=Greetings,%20👋)
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeAuto&text=Greetings,%20👋&fontSize=40&fontAlign=83)
 
 
 **Dico**의 깃헙페이지 입니다! 
